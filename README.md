@@ -1,2 +1,6 @@
-# webpack-sample
-Webpack Sample Code.
+# Webpack Sample
+
+```
+$ yarn install
+$ yarn start
+```
